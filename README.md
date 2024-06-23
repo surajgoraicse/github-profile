@@ -4,23 +4,25 @@
     <img src="https://readme-typing-svg.demolab.com?font=Concert+One&weight=800&size=30&duration=3000&pause=2000&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Suraj!%F0%9F%91%8B;I'm+an+aspiring+Full-Stack+Developer." />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇮🇳. </h3>
+
+
+ <!--- <h3 align="center">A passionate software developer from India 🇮🇳. </h3> --->
 
 <br/>
 
 <div align="center">
 
-   👋**Hi, there!** 
+   👋  **Hi, there!** 
 
-  🙂I'm **Suraj Gorai. !**
+  🙂  I'm **Suraj Gorai. !**
   
- 🌱 I’m currently in **First Year of B-Tech CSE.**
+ 🌱  I’m currently in **First Year of B-Tech CSE. !**
  
- 🔭 I’m currently learning **JavaScript, TailwindCSS.**
+ 🔭  I’m currently learning **JavaScript and TailwindCSS. !**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💪  I'm doing the **#100DaysOfCode** challenge and focused on **Project Building. !**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡  Fun fact:  **90% of the world's data was created in the last two years. !**
 
  </div>
  
