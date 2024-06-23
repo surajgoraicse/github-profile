@@ -62,13 +62,14 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats Update Pending (not mine) ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 height=170 src="https://github-readme-streak-stats.herokuapp.com/?user=surajgoraicse&theme=github_dark&hide_border=false" alt="readme stats" />
-  <img  width=390 src="https://github-readme-stats.vercel.app/api?username=surajgoraicse&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="streak stats"/>
+     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgoraicse&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br/> <br/>
+  <img   src="https://github-readme-stats.vercel.app/api?username=surajgoraicse&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="streak stats"/> <br/> <br/>
+  <img    src="https://github-readme-streak-stats.herokuapp.com/?user=surajgoraicse&theme=github_dark&hide_border=false" alt="readme stats" /> <br/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgoraicse&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+ 
 </div>
 
 <br/><br/>
